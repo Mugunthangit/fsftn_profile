@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,7 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# fsftn_profile
+
 Profile page for Fsftn Resource People
->>>>>>> 7ed2c29edc4f766bce625403bb313796765a6186
+
